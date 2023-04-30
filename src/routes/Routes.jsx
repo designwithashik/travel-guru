@@ -6,6 +6,6 @@ import Main from '../components/Main';
 export const router = createBrowserRouter([
     {
         path: '/',
-        element: <Main/>
+        element: <Main />
     }
 ])
